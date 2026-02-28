@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "1987→",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-02-28T14:44:41.274050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunday Night 1987",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/01_Sunday_Night_1987_M83.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Be That Way (1987 remastered)",
+      "artist": "Benny Goodman and His Orchestra",
+      "has_synced": false,
+      "path": "select/02_Don't_Be_That_Way_(1987_remastered)_Benny_Goodman_and_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goody Goody (1987 Remastered)",
+      "artist": "Benny Goodman and His Orchestra",
+      "has_synced": true,
+      "path": "select/03_Goody_Goody_(1987_Remastered)_Benny_Goodman_and_His_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Am The Law - Live In Dallas/1987",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/04_I_Am_The_Law_-_Live_In_Dallas_1987_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Am the Law (live in Dallas 1987)",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/05_I_Am_the_Law_(live_in_Dallas_1987)_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Man [1987 Version]",
+      "artist": "Simply Red",
+      "has_synced": true,
+      "path": "select/06_Broken_Man_[1987_Version]_Simply_Red.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Resurrection (Live at Wembley Arena, 13th May 1987; 2016 - Remaster)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/07_Love_Resurrection_(Live_at_Wembley_Arena,_13th_May_1987;_2016_-_Remaster)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Resurrection (live at Wembley Arena, 13th May 1987)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/08_Love_Resurrection_(live_at_Wembley_Arena,_13th_May_1987)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ne Me Quitte Pas (Live at Wembley Arena, 13th May 1987; 2016 - Remaster)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/09_Ne_Me_Quitte_Pas_(Live_at_Wembley_Arena,_13th_May_1987;_2016_-_Remaster)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ne me quitte pas (live at Wembley Arena, 13th May 1987)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/10_Ne_me_quitte_pas_(live_at_Wembley_Arena,_13th_May_1987)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kettle Whistle (Live, 1987)",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/11_Kettle_Whistle_(Live,_1987)_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Whole Lotta Love (Live, 1987)",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/12_Whole_Lotta_Love_(Live,_1987)_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Why Can't I Be You? (Extended Mix 1987)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/13_Why_Can't_I_Be_You__(Extended_Mix_1987)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In a Jar - Live 1987",
+      "artist": "Dinosaur Jr.",
+      "has_synced": true,
+      "path": "select/14_In_a_Jar_-_Live_1987_Dinosaur_Jr..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lose - Live 1987",
+      "artist": "Dinosaur Jr.",
+      "has_synced": false,
+      "path": "select/15_Lose_-_Live_1987_Dinosaur_Jr..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Raisans - Live 1987",
+      "artist": "Dinosaur Jr.",
+      "has_synced": false,
+      "path": "select/16_Raisans_-_Live_1987_Dinosaur_Jr..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1987→",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_1987→_スピッツ.txt"
+    }
+  ]
+}
